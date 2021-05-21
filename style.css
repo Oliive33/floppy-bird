@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Press Start 2P', cursive;
+  font-family: "Press Start 2P", cursive;
   user-select: none;
 }
 header {
@@ -12,12 +12,12 @@ header {
 }
 h1 {
   background: url(./media/flappy-bird-set.png) 0% 340px;
-  padding: 1.2rem 0;
+  padding: 1.1rem 0;
   margin: 0;
 }
 .score-container {
   display: flex;
   justify-content: space-between;
   padding: 8px 6px;
-  background: #5EE270;
+  background: #5ee270;
 }
