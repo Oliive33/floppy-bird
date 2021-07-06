@@ -5,6 +5,7 @@ body {
   text-align: center;
   font-family: "Press Start 2P", cursive;
   user-select: none;
+  background: linear-gradient(90deg, #89c9f7 0%, #a1fca1 80%);
 }
 header {
   margin: 0 auto;
